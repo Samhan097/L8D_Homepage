@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+
+:root { 
+    --alto: #d9d9d9;
+    --alto-2: #dedede;
+    --black: #000000;
+    --gray: #919191;
+    --mine-shaft: #3333331a;
+    --mine-shaft-2: #33333380;
+    --primary-20: #ffcc00;
+    --secondary-10: #333333;
+    --secondary-20: #6e6e6e;
+    --secondary-30: #b8b8b8;
+    --test-grad: #ffffff;
+    --white: #ffffff;
+   
+    --font-size-l: 15.8px;
+    --font-size-m: 10.5px;
+    --font-size-s: 9.9px;
+    --font-size-xl: 23.7px;
+    --font-size-xs: 9.2px;
+    --font-size-xxs: 9px;
+    --font-size-xxxs: 7.9px;
+   
+    --font-family-inter: "Inter", Helvetica;
+  }
+  .inter-medium-mine-shaft-10-5px {
+    color: var(--secondary-10);
+    font-family: 'Poppins';
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .inter-normal-pink-swan-8-6px {
+    color: var(--secondary-30);
+    font-family: 'Poppins';
+    font-size: 8.6px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .inter-medium-white-7-9px {
+    color: var(--test-grad);
+    font-family: 'Poppins';
+    font-size: var(--font-size-xxxs);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .inter-semi-bold-mine-shaft-80-2px {
+    color: var(--mine-shaft);
+    font-family: 'Poppins';
+    font-size: 80.2px;
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .inter-medium-mine-shaft-15-8px {
+    color: var(--secondary-10);
+    font-family: 'Poppins';
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .inter-medium-mine-shaft-23-7px {
+    color: var(--secondary-10);
+    font-family: 'Poppins';
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .inter-normal-dove-gray-10-5px {
+    color: var(--secondary-20);
+    font-family: 'Poppins';
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .inter-medium-alto-9px {
+    color: var(--alto-2);
+    font-family: 'Poppins';
+    font-size: var(--font-size-xxs);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .inter-medium-mine-shaft-9-2px {
+    color: var(--mine-shaft-2);
+    font-family: 'Poppins';
+    font-size: var(--font-size-xs);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .inter-medium-gray-15-8px {
+    color: var(--gray);
+    font-family: 'Poppins';
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .inter-medium-gray-10-5px {
+    color: var(--gray);
+    font-family: 'Poppins';
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
